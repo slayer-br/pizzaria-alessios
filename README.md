@@ -47,6 +47,11 @@ LICENSE
 1. Clone ou baixe este repositório
 2. Abra o arquivo `index.html` em seu navegador
 
+## 🔗 Links
+
+- GitHub: <a href="https://github.com/slayer-br/pizzaria-alessios" target="_blank" rel="noopener noreferrer">Alessio's Pizzaria</a>
+- Site ao vivo: <a href="https://slayer-br.github.io/pizzaria-alessios/" target="_blank" rel="noopener noreferrer">Alessio's Pizzaria</a>
+
 ## 👨‍💻 Autor
 
 - GitHub - <a href="https://github.com/slayer-br" target="_blank" rel="noopener noreferrer">@slayer-br</a>
